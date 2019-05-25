@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Dojoachi</title>
+
+        <link rel="stylesheet" href="~/css/style.css"/>
+
+    </head>
+    <body>
+        <div class="container">
+            <div class="Status">
+                <p>Fullness: @ViewBag.Fullness</p>
+                <p>Happiness: @ViewBag.Happiness</p>
+                <p>Meals: @ViewBag.Meals</p>
+                <p>Energy: @ViewBag.Energy</p>
+            </div>
+            <!-- DISPLAY MY DACHI -->
+            <div class="Dojoachi">
+                <img src=@ViewBag.ResultPic alt="Dojoachi">
+                <p>@ViewBag.ResultText</p> 
+            </div>
+            @if (ViewBag.Alive)
+            {
+            <div class="Buttons">
+                <a class="btn btn-pop" href="Feed"><button>Feed</button></a>
+                <a class="btn btn-pop" href="Play"><button>Play</button></a>
+                <a class="btn btn-pop" href="Work"><button>Work</button></a>
+                <a class="btn btn-pop" href="Sleep"><button>Sleep</button></a>
+            </div>
+            }
+            else
+            {
+
+            <a class="btn btn-imp" href="Reset"><button>"Play Again?"</button></a>
+            }
+
+        </div>
+        </div>
+
+    </body>
+
+
+</html>

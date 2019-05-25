@@ -1,0 +1,11 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.csprojResolveAssemblyReference.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.pdb

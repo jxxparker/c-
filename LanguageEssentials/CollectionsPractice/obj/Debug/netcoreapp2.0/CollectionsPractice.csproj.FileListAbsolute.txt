@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.pdb

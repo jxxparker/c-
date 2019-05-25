@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/bin/Debug/netcoreapp2.0/Arrays.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/bin/Debug/netcoreapp2.0/Arrays.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/bin/Debug/netcoreapp2.0/Arrays.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/obj/Debug/netcoreapp2.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/obj/Debug/netcoreapp2.0/Arrays.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Arrays/obj/Debug/netcoreapp2.0/Arrays.pdb

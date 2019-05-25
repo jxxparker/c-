@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/obj/Debug/netcoreapp2.0/Enums.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/bin/Debug/netcoreapp2.0/Enums.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/bin/Debug/netcoreapp2.0/Enums.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/bin/Debug/netcoreapp2.0/Enums.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/bin/Debug/netcoreapp2.0/Enums.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/bin/Debug/netcoreapp2.0/Enums.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/obj/Debug/netcoreapp2.0/Enums.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Enums/obj/Debug/netcoreapp2.0/Enums.pdb

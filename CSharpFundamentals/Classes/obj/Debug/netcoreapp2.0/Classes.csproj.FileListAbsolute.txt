@@ -1,0 +1,11 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/bin/Debug/netcoreapp2.0/Classes.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/bin/Debug/netcoreapp2.0/Classes.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/bin/Debug/netcoreapp2.0/Classes.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/bin/Debug/netcoreapp2.0/Classes.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/bin/Debug/netcoreapp2.0/Classes.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/obj/Debug/netcoreapp2.0/Classes.csprojResolveAssemblyReference.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/obj/Debug/netcoreapp2.0/Classes.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/obj/Debug/netcoreapp2.0/Classes.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/obj/Debug/netcoreapp2.0/Classes.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/obj/Debug/netcoreapp2.0/Classes.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Classes/obj/Debug/netcoreapp2.0/Classes.pdb

@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/bin/Debug/netcoreapp2.0/Puzzles.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Puzzles/obj/Debug/netcoreapp2.0/Puzzles.pdb

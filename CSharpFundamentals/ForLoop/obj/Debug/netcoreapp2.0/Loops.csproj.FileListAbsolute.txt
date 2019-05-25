@@ -1,0 +1,11 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/bin/Debug/netcoreapp2.0/Loops.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/bin/Debug/netcoreapp2.0/Loops.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/bin/Debug/netcoreapp2.0/Loops.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/bin/Debug/netcoreapp2.0/Loops.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/bin/Debug/netcoreapp2.0/Loops.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/obj/Debug/netcoreapp2.0/Loops.csprojResolveAssemblyReference.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/obj/Debug/netcoreapp2.0/Loops.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/obj/Debug/netcoreapp2.0/Loops.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/obj/Debug/netcoreapp2.0/Loops.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/obj/Debug/netcoreapp2.0/Loops.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Loops/obj/Debug/netcoreapp2.0/Loops.pdb

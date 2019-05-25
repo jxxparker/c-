@@ -1,0 +1,11 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/bin/Debug/netcoreapp2.0/Operators.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/bin/Debug/netcoreapp2.0/Operators.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/bin/Debug/netcoreapp2.0/Operators.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/bin/Debug/netcoreapp2.0/Operators.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/bin/Debug/netcoreapp2.0/Operators.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/obj/Debug/netcoreapp2.0/Operators.csprojResolveAssemblyReference.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/obj/Debug/netcoreapp2.0/Operators.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/obj/Debug/netcoreapp2.0/Operators.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/obj/Debug/netcoreapp2.0/Operators.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/obj/Debug/netcoreapp2.0/Operators.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/c#Basics/Operators/obj/Debug/netcoreapp2.0/Operators.pdb

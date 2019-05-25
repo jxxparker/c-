@@ -1,0 +1,11 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/bin/Debug/netcoreapp2.0/ArraysP2.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/bin/Debug/netcoreapp2.0/ArraysP2.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/bin/Debug/netcoreapp2.0/ArraysP2.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/bin/Debug/netcoreapp2.0/ArraysP2.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/bin/Debug/netcoreapp2.0/ArraysP2.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/obj/Debug/netcoreapp2.0/ArraysP2.csprojResolveAssemblyReference.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/obj/Debug/netcoreapp2.0/ArraysP2.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/obj/Debug/netcoreapp2.0/ArraysP2.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/obj/Debug/netcoreapp2.0/ArraysP2.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/obj/Debug/netcoreapp2.0/ArraysP2.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/ArraysP2/obj/Debug/netcoreapp2.0/ArraysP2.pdb

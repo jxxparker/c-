@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/bin/Debug/netcoreapp2.0/firstproject.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/bin/Debug/netcoreapp2.0/firstproject.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/bin/Debug/netcoreapp2.0/firstproject.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/bin/Debug/netcoreapp2.0/firstproject.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/bin/Debug/netcoreapp2.0/firstproject.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/obj/Debug/netcoreapp2.0/firstproject.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/obj/Debug/netcoreapp2.0/firstproject.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/obj/Debug/netcoreapp2.0/firstproject.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/obj/Debug/netcoreapp2.0/firstproject.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/firstproject/obj/Debug/netcoreapp2.0/firstproject.pdb

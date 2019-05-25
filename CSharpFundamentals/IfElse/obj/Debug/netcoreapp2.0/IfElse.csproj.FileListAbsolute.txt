@@ -1,0 +1,11 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/bin/Debug/netcoreapp2.0/IfElse.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/bin/Debug/netcoreapp2.0/IfElse.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/bin/Debug/netcoreapp2.0/IfElse.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/bin/Debug/netcoreapp2.0/IfElse.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/bin/Debug/netcoreapp2.0/IfElse.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/obj/Debug/netcoreapp2.0/IfElse.csprojResolveAssemblyReference.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/obj/Debug/netcoreapp2.0/IfElse.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/obj/Debug/netcoreapp2.0/IfElse.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/obj/Debug/netcoreapp2.0/IfElse.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/obj/Debug/netcoreapp2.0/IfElse.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/IfElse/obj/Debug/netcoreapp2.0/IfElse.pdb

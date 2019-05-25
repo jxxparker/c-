@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp2.0/Basic13.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp2.0/Basic13.pdb

@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/bin/Debug/netcoreapp2.0/WizardNinjaSamurai.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/LanguageEssentials/WizardNinjaSamurai/obj/Debug/netcoreapp2.0/WizardNinjaSamurai.pdb

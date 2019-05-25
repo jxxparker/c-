@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/obj/Debug/netcoreapp2.0/Dojoachi.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/obj/Debug/netcoreapp2.0/Dojoachi.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/obj/Debug/netcoreapp2.0/Dojoachi.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/bin/Debug/netcoreapp2.0/Dojoachi.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/bin/Debug/netcoreapp2.0/Dojoachi.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/bin/Debug/netcoreapp2.0/Dojoachi.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/bin/Debug/netcoreapp2.0/Dojoachi.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/bin/Debug/netcoreapp2.0/Dojoachi.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/obj/Debug/netcoreapp2.0/Dojoachi.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Dojoachi/obj/Debug/netcoreapp2.0/Dojoachi.pdb

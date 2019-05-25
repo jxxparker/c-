@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/bin/Debug/netcoreapp2.0/Strings.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/bin/Debug/netcoreapp2.0/Strings.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/bin/Debug/netcoreapp2.0/Strings.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/bin/Debug/netcoreapp2.0/Strings.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/bin/Debug/netcoreapp2.0/Strings.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/obj/Debug/netcoreapp2.0/Strings.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/obj/Debug/netcoreapp2.0/Strings.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/obj/Debug/netcoreapp2.0/Strings.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/obj/Debug/netcoreapp2.0/Strings.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Strings/obj/Debug/netcoreapp2.0/Strings.pdb

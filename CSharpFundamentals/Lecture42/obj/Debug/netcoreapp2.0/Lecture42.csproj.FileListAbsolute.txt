@@ -1,0 +1,4 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Lecture42/obj/Debug/netcoreapp2.0/Lecture42.csprojResolveAssemblyReference.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Lecture42/obj/Debug/netcoreapp2.0/Lecture42.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Lecture42/obj/Debug/netcoreapp2.0/Lecture42.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/CSharpFundamentals/Lecture42/obj/Debug/netcoreapp2.0/Lecture42.AssemblyInfo.cs

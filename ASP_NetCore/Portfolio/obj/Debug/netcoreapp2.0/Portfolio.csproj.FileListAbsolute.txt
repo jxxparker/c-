@@ -1,0 +1,10 @@
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.deps.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.runtimeconfig.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.runtimeconfig.dev.json
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.pdb
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.AssemblyInfoInputs.cache
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.AssemblyInfo.cs
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.dll
+/Users/jihunpark/Desktop/CodingDojo/CSharp/ASP_NetCore/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.pdb
